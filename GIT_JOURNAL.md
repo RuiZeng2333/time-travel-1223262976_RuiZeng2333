@@ -1,0 +1,1 @@
+I learned the full PR workflow, from branch to merge. I made a mistake by creating a merge conflict, and I also forgot to git pull before pushing a new commit. The git pull origin main command saved the day by letting me fix the conflict locally.
